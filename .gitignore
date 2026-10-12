@@ -1,0 +1,70 @@
+# Unreal Engine
+*.sln
+*.suo
+*.xproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Editor generated
+*.uasset
+*.umap
+*.uexp
+*.ubulk
+*.usmap
+*.uasset.meta
+*.umap.meta
+*.uasset.log
+*.umap.log
+
+# Derived Data Cache
+DerivedDataCache/
+
+# Intermediate
+Intermediate/
+Saved/
+Binaries/
+Build/
+
+# Crash Reports
+CrashReportServer/
+PakFile/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.obj
+*.lib
+*.dll
+*.exe
+
+# Logs
+*.log
+*.txt
+
+# Temporary
+*.tmp
+*.bak
+*.backup
+
+# BuildCookResult
+BuildCookResult/
+
+# Source code
+# *.h
+# *.cpp
+# *.generated.h
